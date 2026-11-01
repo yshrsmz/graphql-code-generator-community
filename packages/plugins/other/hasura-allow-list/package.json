@@ -41,7 +41,7 @@
   "dependencies": {
     "@graphql-codegen/plugin-helpers": "^3.0.0",
     "tslib": "~2.6.0",
-    "yaml": "^1.10.2"
+    "yaml": "^1.10.3"
   },
   "publishConfig": {
     "directory": "dist",
